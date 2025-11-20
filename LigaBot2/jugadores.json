@@ -1,0 +1,58 @@
+[
+  {"id":"BF1","name":"Guillebestia","team":"Bestias FC","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"BF2","name":"Mónica López","team":"Bestias FC","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"BF3","name":"Jaime Aller","team":"Bestias FC","course":"4º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"BF4","name":"Castro","team":"Bestias FC","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"BF5","name":"Taboada Javier","team":"Bestias FC","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"LE1","name":"Gabriel Yebra","team":"La Élite","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"LE2","name":"Álex Cobo","team":"La Élite","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"LE3","name":"Álvaro Cuervo","team":"La Élite","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"LE4","name":"Sergio Figueras","team":"La Élite","course":"4º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"LE5","name":"Javier (LaÉlite)","team":"La Élite","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"BET1","name":"Adrián Rosell","team":"Betis FC","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"BET2","name":"Alejandro Rosillo","team":"Betis FC","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"BET3","name":"Hugo David Morla","team":"Betis FC","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"BET4","name":"Álex (Betis)","team":"Betis FC","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"BET5","name":"Pablo Moratinos","team":"Betis FC","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"PAT1","name":"Mateo Rodríguez","team":"Patadas Al Tobillo","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"PAT2","name":"Xabi","team":"Patadas Al Tobillo","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"PAT3","name":"Alonso Bardón","team":"Patadas Al Tobillo","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"PAT4","name":"Dante González","team":"Patadas Al Tobillo","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"PAT5","name":"Pablo (Patadas)","team":"Patadas Al Tobillo","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"MFC1","name":"Kevin Crego","team":"Malitos FC","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"MFC2","name":"Gonzalo Santiago","team":"Malitos FC","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"MFC3","name":"Álvaro (M)","team":"Malitos FC","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"MFC4","name":"Rodrigo Paz","team":"Malitos FC","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"CDF1","name":"Castro (CDF)","team":"Deportivo Fundiendo CF","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"CDF2","name":"Diego Jiménez","team":"Deportivo Fundiendo CF","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"CDF3","name":"Iker Ferrer","team":"Deportivo Fundiendo CF","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"CDF4","name":"Luis Miguel Jiménez","team":"Deportivo Fundiendo CF","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"CDF5","name":"Sergi Rosell","team":"Deportivo Fundiendo CF","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"CDM1","name":"Alonso Lozano","team":"Cultural y Deportiva Mayonesa","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"CDM2","name":"Guillermo Bardón","team":"Cultural y Deportiva Mayonesa","course":"4º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"CDM3","name":"Hugo (CDM)","team":"Cultural y Deportiva Mayonesa","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"CDM4","name":"David (CDM)","team":"Cultural y Deportiva Mayonesa","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"RM1","name":"Monchi","team":"Real Mark CF","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"RM2","name":"Omar Lakhal","team":"Real Mark CF","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"RM3","name":"Héctor","team":"Real Mark CF","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"SFC1","name":"Alex Picha","team":"Sevilla FC","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"SFC2","name":"Alonso (Sevilla)","team":"Sevilla FC","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"SFC3","name":"Jorge Vega","team":"Sevilla FC","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"SFC4","name":"Kevin del Canto","team":"Sevilla FC","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"SFC5","name":"Sergio (Sevilla)","team":"Sevilla FC","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+
+  {"id":"LAB1","name":"Ángel","team":"Label FC","course":"4º","captain":true,"value":0,"clause":0,"blinded":false},
+  {"id":"LAB2","name":"Joel Blas","team":"Label FC","course":"1º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"LAB3","name":"Miguel Hernández","team":"Label FC","course":"2º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"LAB4","name":"Rayan Dahmani","team":"Label FC","course":"3º","captain":false,"value":0,"clause":0,"blinded":false},
+  {"id":"LAB5","name":"Rubén Vázquez","team":"Label FC","course":"4º","captain":false,"value":0,"clause":0,"blinded":false}
+]
+
